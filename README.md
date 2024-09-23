@@ -1,43 +1,34 @@
-# Welcome to My GitHub Profile!
+Welcome to my GitHub profile, where I share projects, code, and contributions to the tech community.
 
-Welcome to my GitHub profile, where I share my projects, code, and contributions to the tech community.
+**About Me**
 
-## About Me
+👨‍💻 I am a recent B.Tech graduate in Electronics and Communication Engineering from NIT Srinagar.
+🌐 My interests lie in IoT applications, workflow automation, and web development.
+📚 Currently, I am deepening my knowledge in React through The Ultimate React Course 2024 on Udemy.
 
-- 👨‍💻 I'm currently working as an Electronics Engineering Student.
-- 🌐 I have a strong interest in IoT Applications and Workflow Automation.
-- 📚 I'm a continuous learner and love to explore new technologies.
+**Projects**
 
-## Projects
+Here are some of the projects I’ve worked on:
 
-Here are some of the projects I've worked on:
+  Age of Information Analysis in Tandem Server System
+  Developed a simulation model in Simulink featuring a tandem system with 4 servers to evaluate the age of information of transmitted packets. Used MATLAB to analyze server utilization, calculate busy times, and determine
+  hop counts over time.
 
-1. **Age of Information Analysis in Tandem Server System**
-   
-   Developed a simulation model in Simulink featuring a tandem system with 4 servers to evaluate the age of information of transmitted packets at each server and within the system.
-   Translated the simulation into 
-   MATLAB code to analyze server utilization patterns, calculate busy times, and determine the number of hops at different time intervals.
-2. **Automated Office Entry System**
-   
-   Conceptualized, designed, and executed an advanced automated entry system for office spaces, prioritizing user convenience and hygiene.
-3. **Book Cricket Game Simulator**
-   
-   Developed an interactive code-based solution that simulates the popular game of book cricket, allowing users to enjoy a digital version of the game.
- Feel free to explore my repositories to find more interesting projects!
+  Automated Office Entry System
+  Conceptualized and built an automated IoT-based entry system for office spaces, focusing on user convenience and hygiene.
 
-## Contact Me
+  Waste Derived TENG as Self-Powered Sensor   
+  Designed a respiratory monitoring system using a Triboelectric Nanogenerator (TENG) to convert exhaled air into electrical signals. Data was processed with Python and transmitted to Arduino for real-time visualization.
 
-- 📧 Email: kalsi.pratyaksh@gmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/pratyakshkalsi
-- 
-## Contributions
+Feel free to explore my repositories to find more interesting projects!
 
-  You can find my contributions on:
+**Contact Me**
 
-- [GitHub](https://github.com/Pratyaksh1507)
+📧 Email: kalsi.pratyaksh@gmail.com
+💬 LinkedIn: https://linkedin.com/in/pratyakshkalsi
 
-## Let's Connect
+**Let’s Connect!**
 
-Feel free to reach out to me for collaboration, questions, or just to say hello. I'm always open to connecting with fellow developers and tech enthusiasts!
+I am open to collaborations and discussions on technology and development. Don’t hesitate to reach out for any inquiries or just to connect!
 
 Thank you for visiting my GitHub profile. Happy coding!
