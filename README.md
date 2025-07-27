@@ -18,7 +18,7 @@ Fresher Frontend Developer passionate about building scalable web applications w
 - 🚀 Contributing to open source projects
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](your-linkedin-url)
+- 💼 http://www.linkedin.com/in/pratyakshkalsi
 - 📧 kalsi.pratyaksh@gmail.com
 - 🌍 Based in Jammu, India
 
