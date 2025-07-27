@@ -1,34 +1,26 @@
-Welcome to my GitHub profile, where I share projects, code, and contributions to the tech community.
+# Hi there! 👋 I'm Pratyaksh
 
-**About Me**
+## 🚀 About Me
+Fresher Frontend Developer passionate about building scalable web applications with **React.js** and modern JavaScript. I love creating responsive, user-friendly interfaces and writing clean, maintainable code.
 
-👨‍💻 I am a recent B.Tech graduate in Electronics and Communication Engineering from NIT Srinagar.
-🌐 My interests lie in IoT applications, workflow automation, and web development.
-📚 Currently, I am deepening my knowledge in React through The Ultimate React Course 2024 on Udemy.
+## 💻 Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **State Management:** Redux, Context API
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **Version Control:** Git, GitHub
+- **Other:** C++, Python, Arduino
 
-**Projects**
+## 🔥 Current Focus
+- 🌱 Mastering React ecosystem and advanced patterns
+- 🎯 Building full-stack applications
+- 📚 Learning backend technologies
+- 🚀 Contributing to open source projects
 
-Here are some of the projects I’ve worked on:
+## 📫 Let's Connect!
+- 💼 [LinkedIn](your-linkedin-url)
+- 📧 kalsi.pratyaksh@gmail.com
+- 🌍 Based in Jammu, India
 
-  Age of Information Analysis in Tandem Server System
-  Developed a simulation model in Simulink featuring a tandem system with 4 servers to evaluate the age of information of transmitted packets. Used MATLAB to analyze server utilization, calculate busy times, and determine
-  hop counts over time.
-
-  Automated Office Entry System
-  Conceptualized and built an automated IoT-based entry system for office spaces, focusing on user convenience and hygiene.
-
-  Waste Derived TENG as Self-Powered Sensor   
-  Designed a respiratory monitoring system using a Triboelectric Nanogenerator (TENG) to convert exhaled air into electrical signals. Data was processed with Python and transmitted to Arduino for real-time visualization.
-
-Feel free to explore my repositories to find more interesting projects!
-
-**Contact Me**
-
-📧 Email: kalsi.pratyaksh@gmail.com
-💬 LinkedIn: https://linkedin.com/in/pratyakshkalsi
-
-**Let’s Connect!**
-
-I am open to collaborations and discussions on technology and development. Don’t hesitate to reach out for any inquiries or just to connect!
-
-Thank you for visiting my GitHub profile. Happy coding!
+---
+*"Code is like humor. When you have to explain it, it's bad." - Cory House*
